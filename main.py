@@ -1,3 +1,5 @@
 print ("Hello everyone")
 print("good")
 print("morning")
+user = input('Enter your name:')
+print(user)
