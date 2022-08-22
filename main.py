@@ -11,4 +11,8 @@ celsius = (fahrenheit - 32)*5/9
 print("The temperature in Celsius is: ", str(celsius))
 print(f"The temperature in Celsius: {celsius:6.2f}")
 
-
+number1 = input("number one: ")
+number2 = input("number two: ")
+sum = input(float(number1) + float(number2))
+print("sum:")
+print(f"the total: {sum:6.3f}")
